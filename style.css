@@ -1,0 +1,33 @@
+body{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+form{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: bisque;
+    width: 200px;
+}
+input{
+    border-radius: 5px;
+    height: 20px;
+    width: 190px;
+}
+button{
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: lightgray ;
+    width: 100px;
+    margin-left: 50px;
+}
+table, th, td{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: lightcyan;
+    text-align: center;
+}
+table{
+    border-radius: 10px;
+}
